@@ -50,3 +50,4 @@ const styles = StyleSheet.create({
   },
   text: {color: 'pink', marginTop: 5},
 });
+
